@@ -84,11 +84,11 @@ Animation MUI `Zoom` transition
 
 ## 🧠 How It Works
 
-- The main `App` component maintains an array of all notes.\
+- The main `App` component maintains an array of all notes.
 - `CreateArea` handles new note input, expansion, and submission using
-  controlled components.\
+  controlled components.
 - Notes are displayed via the `Note` component, which also supports
-  deletion using a unique `id`.\
+  deletion using a unique `id`.
 - The floating **Add** button (`<Fab>`) triggers note creation with
   MUI icons and transitions.
 
@@ -96,9 +96,9 @@ Animation MUI `Zoom` transition
 
 ## 🎨 UI Highlights
 
-- Bright yellow header and floating button for visual emphasis\
-- Soft off-white background with subtle cube texture\
-- Rounded note cards with drop shadows for depth\
+- Bright yellow header and floating button for visual emphasis
+- Soft off-white background with subtle cube texture
+- Rounded note cards with drop shadows for depth
 - Responsive and modern design --- looks great on desktop or mobile
 
 ---
